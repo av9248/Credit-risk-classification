@@ -31,3 +31,4 @@ High-Risk Loans (1): 0.94
 The logistic regression model demonstrates strong performance across all metrics. It is particularly effective at classifying healthy loans (0), achieving perfect precision (1.00) and near-perfect recall (0.99). For high-risk loans (1), the model performs slightly less well, with a precision of 0.85 and recall of 0.94. These results indicate that the model is more likely to misclassify healthy loans as high-risk than vice versa. This model is recommended for use by the company. Its high recall for high-risk loans ensures that most high-risk cases are identified, minimizing financial losses.
  
 
+I would like to acknowledge the resources and tools that supported me in completing this assignment: ChatGPT, Xpert Learning, and Stack Overflow.
